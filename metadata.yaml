@@ -1,0 +1,40 @@
+_repo: The-Poems-of-Goethe-Translated-in-the-original-metres_1287
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bowring, Edgar Alfred
+    aliases:
+    - Bowring, E. A. (Edgar Alfred)
+    - Bowring, Edward Alfred
+    birthdate: 1826
+    deathdate: 1911
+    gutenberg_agent_id: '587'
+    url: http://www.gutenberg.org/2009/agents/587
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Alfred_Bowring
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Goethe, J. W. (Johann Wolfgang)
+    - Von Goethe, Johann Wolfgang
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_issued: '1998-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1287'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832 -- Translations into English'
+- !lcsh 'German poetry -- Translations into English'
+- !lcc 'PT'
+- GITenberg
+title: The Poems of Goethe, Translated in the Original Metres
+url: http://www.gutenberg.org/ebooks/1287
